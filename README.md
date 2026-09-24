@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 Step 2
 `````
-chmod+x run.sh
+chmod +x run.sh
 ./run.sh 
 `````
 
